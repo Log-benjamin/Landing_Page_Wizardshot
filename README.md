@@ -41,7 +41,7 @@
   <summary>Client</summary>
   <ul>
     <li><a href="https://en.wikipedia.org/wiki/HTML">HTML</a></li>
-    <li><a href="https://tailwindcss.com/">Tailwind css</a></li>
+    <li><a href="https://tailwindcss.com/">JTailwind css</a></li>
   </ul>
 </details>
 
@@ -60,7 +60,8 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+<!-- - [Live Demo Link]() -->
+- Comming soon on Vercel
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
