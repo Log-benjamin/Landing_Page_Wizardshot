@@ -4,7 +4,10 @@ module.exports = {
   theme: {
     extend: {},
     fontFamily: {
-      'custom-one': ['Alphabetized Cassette Tapes Thin', 'sans-serif'],
+      'custom-font-one': ['Alphabetized Cassette Tapes Thin', 'sans-serif'],
+      'custome-font-two': ['Plus Jakarta Display', 'sans-serif'],
+      'custome-font-three': ['Mulish', 'sans-serif'],
+      'custome-font-four': ['Open Sans', 'sans-serif'],
       // Add other font families if needed
     },
   },
